@@ -1,20 +1,20 @@
 # Projeto-CSS-1
 Primeiro Projeto com CSS
-<!doctype html>
 
+<!doctype html>
 <html lang="pt-br"> 
 
-    <head> <!--este conteudo não aparece na pagina-->
+    <head> 
         <title>Projeto CSS</title>
         <meta charset="utf-8"> 
-        <meta name="author" content="Daniel"> 
+        <meta name="author" content="Milene"> 
         <meta name="description" content="projeto de css"> 
         <meta name="keywords" content="css, tecnologia"> 
 
         <link rel="stylesheet" href="estilo.css">
     </head>
 
-    <body> <!--conteudo da pagina-->
+    <body> 
         <div id="principal">
 
             <header class="hero">
